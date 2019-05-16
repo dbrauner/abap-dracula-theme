@@ -1,5 +1,5 @@
 # Dracula Theme for ABAP
-This is a dark theme for ABAP, inspired in the [dracula](https://draculatheme.com/) color scheme, one of most used themes for many editors and IDE's, such as Atom, Sublime Text, IntelliJ, VSCode and many others.
+This is a dark theme for ABAP (NetWeaver), inspired in the [dracula](https://draculatheme.com/) color scheme, one of most used themes for many editors and IDE's, such as Atom, Sublime Text, IntelliJ, VSCode and many others.
 
 # Demo
 ![demo image](./demo.png)
